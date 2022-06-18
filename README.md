@@ -1,11 +1,14 @@
 ### Hi there 👋
-### Welcome to my Github
+### 💻 Welcome to my Github 
 
 - 🌱 I’m currently learning Software Engineering at UTBM in Belfort, France.
 - 🎓 Bachelor in Software Dev from Shanghai University.
 
+- My Linkedin: https://www.linkedin.com/in/yonghui-huang-b2706a15b/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pas0412&?theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pas0412&?theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pas0412)](https://github.com/anuraghazra/github-readme-stats)
 
 
