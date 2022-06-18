@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/Flutter-%20-02569b?style=for-the-badge&logo=flutter&logoColor=02569b)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pas0412&theme=nord&show_icons=true&include_all_commits=true&hide=issues&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pas0412&theme=nord&show_icons=true&include_all_commits=true&hide=issues&repo=github-readme-stats" width="475"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pas0412&layout=compact&theme=nord&repo=convoychat" />
