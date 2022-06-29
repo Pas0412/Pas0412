@@ -18,6 +18,7 @@
 ![](https://img.shields.io/badge/JavaScript-%20-yellow?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![](https://img.shields.io/badge/Vue-%20-4fc08d?style=for-the-badge&logo=vue.js&logoColor=4fc08d)
 ![](https://img.shields.io/badge/Flutter-%20-02569b?style=for-the-badge&logo=flutter&logoColor=02569b)
+![](https://img.shields.io/badge/C++-%20-red?style=for-the-badge&logo=Cplusplus&logoColor=red)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pas0412&theme=nord&show_icons=true&include_all_commits=true&hide=issues&repo=github-readme-stats" width="475"/>
