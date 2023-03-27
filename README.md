@@ -20,7 +20,16 @@
 ![](https://img.shields.io/badge/JavaScript-%20-yellow?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![](https://img.shields.io/badge/Vue-%20-4fc08d?style=for-the-badge&logo=vue.js&logoColor=4fc08d)
 ![](https://img.shields.io/badge/Flutter-%20-02569b?style=for-the-badge&logo=flutter&logoColor=02569b)
-![](https://img.shields.io/badge/C++-%20-red?style=for-the-badge&logo=Cplusplus&logoColor=red)
+![](https://img.shields.io/badge/C++-%20-lightgrey?style=for-the-badge&logo=Cplusplus)
+![](https://img.shields.io/badge/HTML5-%20-E34F26?style=for-the-badge&logo=html5)
+![](https://img.shields.io/badge/CSS3-%20-lightblue?style=for-the-badge&logo=css3)
+![](https://img.shields.io/badge/Springboot-%20-6DB33F?style=for-the-badge&logo=springboot)
+![](https://img.shields.io/badge/MySQL-%20-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/microsoft_sql_server-%20-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![](https://img.shields.io/badge/微信小程序-%20-07C160?style=for-the-badge&logo=wechat)
+![](https://img.shields.io/badge/sourcetree-%20-0052CC?style=for-the-badge&logo=sourcetree)
+![](https://img.shields.io/badge/postman-%20-FF6C37?style=for-the-badge&logo=postman)
+![](https://img.shields.io/badge/prezi-%20-3181FF?style=for-the-badge&logo=prezi&logoColor=white)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pas0412&theme=nord&show_icons=true&include_all_commits=true&hide=issues&repo=github-readme-stats" width="475"/>
