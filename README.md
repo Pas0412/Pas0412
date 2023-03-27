@@ -1,4 +1,4 @@
-<h1 align="center">Hello there!:wave:</h1>
+<h1 align="center">Hello there!:wave:Bienvenue!</h1>
 
 ### 💻 Welcome to my Github 
 
@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/UTBM-Student-lightgreen?logoColor=lightgreen)
 
 - 🌱 I’m currently learning Software Engineering(=Master degree in :cn:) at UTBM in Belfort, France :fr:.
-- 🎓 Bachelor in Software Dev from Shanghai University.
+- 🎓 Bachelor's degree of Information Engineering from Shanghai University.
 
 - <img src="https://user-images.githubusercontent.com/68329670/174433276-1b8eec66-09b1-4623-9634-39d28a213953.png" width="20"> My Linkedin: https://www.linkedin.com/in/yonghui-huang-b2706a15b/
 
