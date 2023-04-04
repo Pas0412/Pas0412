@@ -16,8 +16,8 @@
 
 🛠️Skills
 
-![](https://img.shields.io/badge/Python-%20-orange?style=for-the-badge&logo=python&logoColor=orange)
-![](https://img.shields.io/badge/JavaScript-%20-yellow?style=for-the-badge&logo=javascript&logoColor=yellow)
+![](https://img.shields.io/badge/Python-%20-3776AB?style=for-the-badge&logo=python&logoColor=3776AB)
+![](https://img.shields.io/badge/JavaScript-%20-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Vue-%20-4fc08d?style=for-the-badge&logo=vue.js&logoColor=4fc08d)
 ![](https://img.shields.io/badge/Flutter-%20-02569b?style=for-the-badge&logo=flutter&logoColor=02569b)
 ![](https://img.shields.io/badge/C++-%20-lightgrey?style=for-the-badge&logo=Cplusplus)
