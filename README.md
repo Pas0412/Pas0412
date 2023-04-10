@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Software-Engineer-lightblue?logoColor=lightblue)
 ![](https://img.shields.io/badge/UTBM-Student-lightgreen?logoColor=lightgreen)
 
-- 🌱 I’m currently learning Software Engineering(=Master degree in :cn:) at UTBM in Belfort, France :fr:.
+- 🌱 I’m currently learning Software Engineering(=Master degree in China :cn:) at UTBM in Belfort, France :fr:.
 - 🎓 Bachelor's degree of Information Engineering from Shanghai University.
 
 - <img src="https://user-images.githubusercontent.com/68329670/174433276-1b8eec66-09b1-4623-9634-39d28a213953.png" width="20"> My Linkedin: https://www.linkedin.com/in/yonghui-huang-b2706a15b/
@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/Python-%20-3776AB?style=for-the-badge&logo=python&logoColor=3776AB)
 ![](https://img.shields.io/badge/JavaScript-%20-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Vue-%20-4fc08d?style=for-the-badge&logo=vue.js&logoColor=4fc08d)
+![](https://img.shields.io/badge/Vite-%20-646CFF?style=for-the-badge&logo=vite)
 ![](https://img.shields.io/badge/Flutter-%20-02569b?style=for-the-badge&logo=flutter&logoColor=02569b)
 ![](https://img.shields.io/badge/C++-%20-lightgrey?style=for-the-badge&logo=Cplusplus)
 ![](https://img.shields.io/badge/HTML5-%20-E34F26?style=for-the-badge&logo=html5)
