@@ -1,12 +1,13 @@
-<h1 align="center">Hello there!:wave:Bienvenue!</h1>
+<h1 align="center">Hello there!Bienvenue!</h1>
 
 ### 💻 Welcome to my Github 
 
-![https://img.shields.io/badge/Dev-Frontend-blue.svg](https://img.shields.io/badge/Dev-Front--end-blue)
+![https://img.shields.io/badge/Dev-Frontend-blue.svg](https://img.shields.io/badge/Dev-full--stack-blue)
 ![](https://img.shields.io/badge/Software-Engineer-lightblue?logoColor=lightblue)
-![](https://img.shields.io/badge/UTBM-Student-lightgreen?logoColor=lightgreen)
+![](https://img.shields.io/badge/Data-Science-lightgreen?logoColor=lightgreen)
 
-- 🌱 I’m currently learning Software Engineering(=Master degree in China :cn:) at UTBM in Belfort, France :fr:.
+- 🔭 I'm currently working at Aibafang Group Co,ltd in Shenzhen, China :cn:.
+- 🎓 Software Engineering + Data Science from UTBM in Belfort, France :fr:.
 - 🎓 Bachelor's degree of Information Engineering from Shanghai University.
 
 - <img src="https://user-images.githubusercontent.com/68329670/174433276-1b8eec66-09b1-4623-9634-39d28a213953.png" width="20"> My Linkedin: https://www.linkedin.com/in/yonghui-huang-b2706a15b/
