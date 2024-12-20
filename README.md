@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Software-Engineer-lightblue?logoColor=lightblue)
 ![](https://img.shields.io/badge/Data-Science-lightgreen?logoColor=lightgreen)
 
-- 🔭 I'm currently working at Aibafang Group Co,ltd in Shenzhen, China :cn:.
+- 🔭 I'm currently working at Xiamen Port Holding Group Co,ltd in Xiamen, China :cn:.
 - 🎓 Master degree of Software Engineering + Data Science from UTBM in Belfort, France :fr:.
 - 🎓 Bachelor's degree of Information Engineering from Shanghai University.
 
@@ -44,7 +44,7 @@
 
 <!--
 **Pas0412/Pas0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://simpleicons.org/
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
