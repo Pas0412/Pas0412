@@ -12,7 +12,7 @@
 
 - <img src="https://user-images.githubusercontent.com/68329670/174433276-1b8eec66-09b1-4623-9634-39d28a213953.png" width="20"> My Linkedin: https://www.linkedin.com/in/yonghui-huang-b2706a15b/
 
-- <img src="https://user-images.githubusercontent.com/68329670/184053894-7f2ddeef-d4a6-4c6a-bf41-e8d2e0dfe2eb.png" width="20"> My Personal Website: https://pas0412.github.io/MyPersonalPage/
+- <img src="https://user-images.githubusercontent.com/68329670/184053894-7f2ddeef-d4a6-4c6a-bf41-e8d2e0dfe2eb.png" width="20"> My Personal Website: http://huangyonghui.cn
 
 
 🛠️Skills
